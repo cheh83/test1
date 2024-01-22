@@ -1,4 +1,9 @@
-a = 5
-b = 8
-print(a + b)
+def foo(name, age, bla):
+    pass
 
+
+def bar(num: int):
+    return "something"
+
+def baz():
+    pass
