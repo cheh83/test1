@@ -5,5 +5,6 @@ def foo(name, age, bla):
 def bar(num: int):
     return "something"
 
+
 def baz():
     pass
